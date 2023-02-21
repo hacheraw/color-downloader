@@ -1,0 +1,6 @@
+{
+	"type":"module",
+	"dependencies": {
+		"download": "^8.0.0"
+	}
+}
